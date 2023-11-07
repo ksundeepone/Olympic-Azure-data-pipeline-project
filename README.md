@@ -4,6 +4,7 @@
 
 ## To create connection from Azure Databricks to Azure Data Factory
 
+```sh
 configs = {"fs.azure.account.auth.type": "OAuth",
 "fs.azure.account.oauth.provider.type": "org.apache.hadoop.fs.azurebfs.oauth2.ClientCredsTokenProvider",
 "fs.azure.account.oauth2.client.id": "",
@@ -15,4 +16,5 @@ dbutils.fs.mount(
 source = "abfss://tokyo-olympic-data@tokyoolympicdata.dfs.core.windows.net", # contrainer@storageacc
 mount_point = "/mnt/tokyoolymic",
 extra_configs = configs)
+```
   
