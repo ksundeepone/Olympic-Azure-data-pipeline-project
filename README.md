@@ -2,6 +2,13 @@
 
 Designed and implemented a comprehensive data pipeline leveraging Microsoft Azure for the Tokyo Olympic dataset. Employing Azure Data Factory, I seamlessly extracted data from a designated website, orchestrating the process to integrate Azure Data Lake for efficient storage of raw data. Subsequently, I incorporated Azure Databricks to conduct intricate data transformations, enriching the dataset. The refined data was then exported back to Azure Data Lake, culminating in a sophisticated data visualization process. This project showcases my proficiency in cloud-based data engineering, ETL processes, and data visualization using cutting-edge Azure services.
 
+Azure Pipeline : 
+Storage account > create storage > Create containers 
+ADF > source > HTTP > CSV > Link service > Enter URL
+    > sink > ADL Storage Gen2 > Link service > select Storage > path
+
+
+
 ## To create connection from Azure Databricks to Azure Data Factory
 
 ```sh
