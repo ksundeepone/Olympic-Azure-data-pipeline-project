@@ -6,6 +6,7 @@ Azure Pipeline :
 > Storage account > create storage > Create containers
 
 > ADF > source > HTTP > CSV > Link service > Enter URL
+
 > ADF > sink > ADL Storage Gen2 > Link service > select Storage > path
 
 
