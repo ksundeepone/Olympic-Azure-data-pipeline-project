@@ -30,7 +30,7 @@ Outputs in Azure Synapse:
 
 <img src="https://github.com/ksundeepone/Olympic-Azure-data-pipeline-project/assets/102394204/32388c6c-579b-47f8-98b7-c578095bed5e" width="400" height="300" /> <img src="https://github.com/ksundeepone/Olympic-Azure-data-pipeline-project/assets/102394204/828798e0-173c-4425-95b4-66ef707d4ba5" width="400" height="300">
 
-<img src="https://github.com/ksundeepone/Olympic-Azure-data-pipeline-project/assets/102394204/92a53302-0dd8-4801-bc9d-2445cd93893f" width="400" height="300">
+<img src="https://github.com/ksundeepone/Olympic-Azure-data-pipeline-project/assets/102394204/92a53302-0dd8-4801-bc9d-2445cd93893f" width="800" height="300">
 
 
 
