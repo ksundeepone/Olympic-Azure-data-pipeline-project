@@ -25,3 +25,12 @@ extra_configs = configs)
 ls "/mnt/olympicmount"
 ```
 
+
+Outputs in Azure Synapse: 
+
+![SQL script 1-2](https://github.com/ksundeepone/Olympic-Azure-data-pipeline-project/assets/102394204/32388c6c-579b-47f8-98b7-c578095bed5e)
+![SQL script 1-3](https://github.com/ksundeepone/Olympic-Azure-data-pipeline-project/assets/102394204/828798e0-173c-4425-95b4-66ef707d4ba5)
+![SQL script 1](https://github.com/ksundeepone/Olympic-Azure-data-pipeline-project/assets/102394204/92a53302-0dd8-4801-bc9d-2445cd93893f)
+
+
+
